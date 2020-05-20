@@ -1,0 +1,6 @@
+#two {background: #dddd22;
+	text-align: right;}
+.parent #childOne{
+	background: #ff500f;
+}
+h4{text-align: center;}
